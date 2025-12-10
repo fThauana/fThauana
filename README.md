@@ -1,8 +1,9 @@
 # Olá, eu sou a Thauana Vitória! 👋
 
-<img width="1500" height="500" alt="Design sem nome (3)" src="https://github.com/user-attachments/assets/2d545b33-7ba5-4b14-986d-497d81600fbf" />
+<img width="1500" height="500" alt="Design sem nome (4)" src="https://github.com/user-attachments/assets/71215e8c-79d1-4692-b0bb-b737884f8e3e" />
 
 
+##
 
 Sou graduada em **Análise e Desenvolvimento de Sistemas** e apaixonada por transformar linhas de código em soluções reais. Atualmente, tenho experiência prática em desenvolvimento **Back-end** e explorar o universo **Mobile**.
 
