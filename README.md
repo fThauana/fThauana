@@ -1,7 +1,5 @@
 # Olá, eu sou a Thauana Vitória! 👋
-
-<img width="1500" height="500" alt="Design sem nome (4)" src="https://github.com/user-attachments/assets/71215e8c-79d1-4692-b0bb-b737884f8e3e" />
-
+<img width="1500" height="500" alt="Design sem nome (4)" src="https://github.com/user-attachments/assets/0d75888b-f73d-4ac6-8d59-10a77555ca74" />
 
 ##
 
